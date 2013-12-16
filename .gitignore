@@ -1,3 +1,6 @@
 *.[oa]
 src/lua
 src/luac
+src/*.exe
+src/*.lib
+src/*.dll
