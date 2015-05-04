@@ -4,3 +4,5 @@ src/luac
 src/*.exe
 src/*.lib
 src/*.dll
+src/*.obj
+src/*.pdb
